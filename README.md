@@ -1,3 +1,3 @@
 # Alaska
 Land of the Midnight Sun
-<img class="img-fluid" src="img/portfolio.jpg" alt="">
+<img class="img-fluid" src="logo.png" alt="">
